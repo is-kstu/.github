@@ -42,7 +42,7 @@
 <table>
 <tr>
 <td>1️⃣</td>
-<td>Прочитайте <a href="ссылка-на-git-info">руководство по Git</a> в репозитории git-info</td>
+<td>Прочитайте <a href="https://github.com/is-kstu/git-info">руководство по Git</a> в репозитории git-info</td>
 </tr>
 <tr>
 <td>2️⃣</td>
@@ -61,7 +61,7 @@
 <table>
 <tr>
 <td align="center" width="300px">
-  <h3><a href="ссылка-на-git-info">📖 git-info</a></h3>
+  <h3><a href="https://github.com/is-kstu/git-info">📖 git-info</a></h3>
   <br>
   Руководство по работе с Git и GitHub
   <br>
@@ -78,7 +78,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="ссылка-на-профиль">
+        <a href="https://t.me/lukivan8">
           <img src="https://github.com/lukivan8.png" width="100px;" alt="Admin"/><br>
           <sub><b>@lukivan8</b></sub>
         </a>
@@ -92,7 +92,7 @@
 <div align="center">
 
 ### 💬 Есть вопросы?
-Создайте [issue](ссылка-на-issues) или напишите руководителю!
+Создайте [issue](https://github.com/is-kstu/.github/issues/new?template=Blank+issue) или напишите руководителю!
 
 </div>
 
